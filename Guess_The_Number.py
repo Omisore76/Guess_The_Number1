@@ -17,7 +17,7 @@ def guess_game(Low, High):
             print(f"Sorry, try again, your guessed number({User_Guess}) is high")
         else:
             print("Hurray! You've guessed the number right")
-guess_game(1, 10)
+guess_game(1, 50)
 
 
 
