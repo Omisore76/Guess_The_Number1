@@ -1,0 +1,2 @@
+# Guess_The_Number1
+Guessing games are always fun, whether you're playing with a friend or trying to beat a computer. In this particular game, the computer has a secret number and it's up to you to try and guess what that number is. You can make as many guesses as you want, but the closer you are to the computer's number, the better. If you can guess the number exactly, then you win! But even if you don't quite manage to get the right answer, it's still a fun game to play. So why not give it a try? You might be surprised at how close you can get.
