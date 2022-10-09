@@ -31,7 +31,7 @@ Guessing games are always fun, whether you're playing with a friend or trying to
 ```
 	python3 Guess_The_Number.py
 ```
-- Enter the number of password(s) needed, as well as the desired length of your password
+- Enter any number of your choice when prompted
 
 - Finally, deactivate the virtual environment once done 
 ```
